@@ -1,0 +1,6 @@
+framework module Pods_BroilerPlateiOS {
+  umbrella header "Pods-BroilerPlateiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
